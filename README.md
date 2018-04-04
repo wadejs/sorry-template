@@ -5,7 +5,7 @@
 ## 说明
 
 思路参考[sorry](https://github.com/xtyxtyx/sorry)和[nodejs版](https://github.com/q809198545/node-sorry)；
-上面的nodejs版用的是express写的，这里写了个koa2版本的
+前面的nodejs版用的是express写的，这里写了个koa2版本的
 
 
 
@@ -14,3 +14,20 @@
 `sorry客户真的可以为所欲为`样例：
 
 ![](templates/sorry.gif)
+
+## 使用
+dist里提供了前端模板
+先安装依赖
+```
+npm install 
+
+```
+
+运行
+
+```
+npm run start
+
+```
+
+用浏览器打开：http://127.0.0.1:8888
