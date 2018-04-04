@@ -11,11 +11,12 @@
 前端： vue iview UI 组件库
 后端：nodejs koa2
 
-演示地址：[DEMO](http://wadejs.cn/sorry.html#/)
+## 演示地址：
+[DEMO](http://wadejs.cn/sorry.html#/)
 
 `sorry客户真的可以为所欲为`样例：
 
-![](templates/sorry.gif)
+![](server/templates/sorry.gif)
 
 ## 使用
 dist里提供了前端模板，可以直接进入server目录开启项目
