@@ -7,7 +7,9 @@
 思路参考[sorry](https://github.com/xtyxtyx/sorry)和[nodejs版](https://github.com/q809198545/node-sorry)；
 前面的nodejs版用的是express写的，这里写了个koa2版本的
 
-
+## 技术栈
+前端： vue iview UI 组件库
+后端：nodejs koa2
 
 演示地址：[DEMO](http://wadejs.cn/sorry.html#/)
 
@@ -16,9 +18,10 @@
 ![](templates/sorry.gif)
 
 ## 使用
-dist里提供了前端模板
+dist里提供了前端模板，可以直接进入server目录开启项目
 先安装依赖
 ```
+cd server
 npm install 
 
 ```
