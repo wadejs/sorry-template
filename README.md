@@ -12,7 +12,7 @@
 后端：nodejs koa2
 
 ## 演示地址：
-[DEMO](http://wadejs.cn/sorry.html#/)
+[DEMO](http://www.wadejs.cn/sorry/)
 
 `sorry客户真的可以为所欲为`样例：
 
